@@ -1,0 +1,10 @@
+.nav_bar{
+    display: flex;
+    min-width: 400px;
+    justify-content: space-evenly;
+}
+.item{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
